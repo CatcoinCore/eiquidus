@@ -28,7 +28,7 @@
 @use './themes/yeti/variables' as yeti;
 @use './themes/zephyr/variables' as zephyr;
 
-$theme-name:  string.to-lower-case(theme-selector.$theme-name);
+$theme-name: string.to-lower-case(theme-selector.$theme-name);
 
 @mixin table-border-color($important: 0) {
   @if $theme-name == "cerulean" {
