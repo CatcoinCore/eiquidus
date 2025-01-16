@@ -65,7 +65,7 @@
       // enabled: Enable/disable CORS
       //          If set to true, a new output header will be added to all http requests like this: Access-Control-Allow-Origin: <corsorigin>
       //          If set to false, the cors feature will be completely disabled
-      "enabled": true,
+      "enabled": false,
       // corsorigin: Used to whitelist an http domain name for access to this explorer's resources
       //             The whitelisted domain must be in the format: https://example.com
       //             Specifying a "*" for the corsorigin will allow any domain to access the resources of this site
