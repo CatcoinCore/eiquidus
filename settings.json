@@ -535,7 +535,7 @@
           // stretch_to_fit: Determine if the chart should be fit inside the surrounding chart box with or without padding
           //                 If set to true, the chart will take up the full available space inside the chart box
           //                 If set to false, there will be some padding on all 4 sides of the chart box
-          "stretch_to_fit": false
+          "stretch_to_fit": true
         },
         // reload_chart_seconds: The time in seconds to automatically reload the network chart data from the server
         //                       Set to 0 to disable automatic reloading of chart data
