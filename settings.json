@@ -377,7 +377,7 @@
               //         Valid options are: Arial, Verdana, Times New Roman, Georgia, Courier New, Tahoma
               "family": "Arial",
               // size: Determine the size of the font text in pixels
-              "size": 20,
+              "size": 12,
               // weight: Determine the thickness of the font text
               //         Valid options are: normal, bold, bolder, lighter, 100, 200, 300, 400, 500, 600, 700, 800, 900
               "weight": "bold"
@@ -387,7 +387,7 @@
           "legend": {
             // enabled: Enable/disable the chart legend (true/false)
             //          If set to false, the legend will be completely absent from the chart
-            "enabled": true,
+            "enabled": false,
             // position: Determine where to position the chart legend
             //           Valid options are top, left, bottom and right
             "position": "bottom"
@@ -423,12 +423,12 @@
           //                 NOTE: Set to a value of -1 to output the raw value without rounding
           "round_decimals": 3,
           // chart_height: Height of chart in px
-          "chart_height": 300,
+          "chart_height": 350,
           // full_row: Determine whether the chart will appear in its own row or can have another chart beside it in the same row
           //           If set to true, the chart will take up the full width of the page
           //           If set to false, and another chart is configured to display, the 2nd chart will appear beside this chart, both taking up 50% of the width of the screen
           //           NOTE: On smaller screens such as mobile phones and some tablets, each chart will take up it's own row regardless of what the full_row setting is set to due to limited screen real estate
-          "full_row": false,
+          "full_row": true,
           // stretch_to_fit: Determine if the chart should be fit inside the surrounding chart box with or without padding
           //                 If set to true, the chart will take up the full available space inside the chart box
           //                 If set to false, there will be some padding on all 4 sides of the chart box
@@ -472,7 +472,7 @@
               //         Valid options are: Arial, Verdana, Times New Roman, Georgia, Courier New, Tahoma
               "family": "Arial",
               // size: Determine the size of the font text in pixels
-              "size": 20,
+              "size": 12,g
               // weight: Determine the thickness of the font text
               //         Valid options are: normal, bold, bolder, lighter, 100, 200, 300, 400, 500, 600, 700, 800, 900
               "weight": "bold"
@@ -482,7 +482,7 @@
           "legend": {
             // enabled: Enable/disable the chart legend (true/false)
             //          If set to false, the legend will be completely absent from the chart
-            "enabled": true,
+            "enabled": false,
             // position: Determine where to position the chart legend
             //           Valid options are top, left, bottom and right
             "position": "bottom"
@@ -526,12 +526,12 @@
           //                 NOTE: Set to a value of -1 to output the raw value without rounding
           "round_decimals": 3,
           // chart_height: Height of chart in px
-          "chart_height": 300,
+          "chart_height": 350,
           // full_row: Determine whether the chart will appear in its own row or can have another chart beside it in the same row
           //           If set to true, the chart will take up the full width of the page
           //           If set to false, and another chart is configured to display, the 2nd chart will appear beside this chart, both taking up 50% of the width of the screen
           //           NOTE: On smaller screens such as mobile phones and some tablets, each chart will take up it's own row regardless of what the full_row setting is set to due to limited screen real estate
-          "full_row": false,
+          "full_row": true,
           // stretch_to_fit: Determine if the chart should be fit inside the surrounding chart box with or without padding
           //                 If set to true, the chart will take up the full available space inside the chart box
           //                 If set to false, there will be some padding on all 4 sides of the chart box
