@@ -200,36 +200,42 @@
         {
           "enabled": true,
           "tooltip_text": "Github",
+          "url": "https://github.com/CatcoinCore/Catcoin-v0.9.3.0",
           "fontawesome_class": "fa-brands fa-github",
           "image_path": ""
         },
         {
           "enabled": true,
           "tooltip_text": "Twitter",
+          "url": "https://twitter.com/CatcoinOfficial",
           "fontawesome_class": "fa-brands fa-twitter",
           "image_path": ""
         },
         {
           "enabled": true,
           "tooltip_text": "Discord",
+          "url": "https://discord.gg/sQDV9FYSGF",
           "fontawesome_class": "fa-brands fa-discord",
           "image_path": ""
         },
         {
           "enabled": true,
           "tooltip_text": "Telegram",
+          "url": "https://t.me/catcoin2013",
           "fontawesome_class": "fa-brands fa-telegram",
           "image_path": ""
         },
         {
           "enabled": true,
           "tooltip_text": "Website",
+          "url": "https://catcoins.org",
           "fontawesome_class": "",
           "image_path": "/img/external.png"
         },
         {
           "enabled": true,
           "tooltip_text": "Coingecko",
+          "url": "https://www.coingecko.com/en/coins/catcoins",
           "fontawesome_class": "",
           "image_path": "/img/coingecko.png"
         }
