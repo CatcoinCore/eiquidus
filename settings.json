@@ -243,7 +243,7 @@
       "social_link_percent_height_desktop": 70,
       "social_link_percent_height_tablet": 42,
       "social_link_percent_height_mobile": 40,
-      "powered_by_text": "<a class='nav-link poweredby' href='https://github.com/CatcoinCore/eiquidus' target='_blank'>Catcoin-eIquidus v{explorer_version}</a>"
+      "powered_by_text": "<a class='nav-link poweredby' href='https://github.com/CatcoinCore/eiquidus' target='_blank'>Catcoin v{explorer_version}</a>"
     }
   },
   "index_page": {
