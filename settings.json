@@ -441,7 +441,7 @@
         "trading_pairs": [ "LTC/BTC" ]
       },
       "xeggex": {
-        "enabled": true,
+        "enabled": false,
         "trading_pairs": [ "CAT/USDT" ]
       },
       "yobit": {
