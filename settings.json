@@ -35,7 +35,7 @@
   "network_history": {
     "enabled": true,
     "max_saved_records": 0,
-    "max_hours": 24
+    "max_hours": 48
   },
   "shared_pages": {
     "theme": "Slate",
