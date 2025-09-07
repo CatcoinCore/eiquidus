@@ -158,7 +158,7 @@
           "enabled": true,
           "chart_title": {
             "enabled": true,
-            "title_text": "{coin_name} Difficulty Rate History for the last {max_hours} hours\nHigh: {highest_pos_difficulty}\nCurrent: {current_pos_difficulty}\nLow: {lowest_pos_difficulty}\nBlock: {highest_block}",
+            "title_text": "{coin_name} Difficulty Rate History for the last {max_hours} hours\nHigh: {highest_pow_difficulty}\nCurrent: {current_pow_difficulty}\nLow: {lowest_pow_difficulty}\nBlock: {highest_block}",
             "alignment": "center",
             "color": "#666666",
             "font": {
