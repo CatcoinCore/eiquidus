@@ -141,7 +141,7 @@
             "enabled": false,
             "position": "bottom"
           },
-          "bgcolor": "#F2EEE3",
+          "bgcolor": "#0B0800",
           "line_color": "rgba(54, 162, 235, 1)",
           "fill_color": "rgba(54, 162, 235, 0.2)",
           "crosshair_color": "#000000",
@@ -171,7 +171,7 @@
             "enabled": false,
             "position": "bottom"
           },
-          "bgcolor": "#F2EEE3",
+          "bgcolor": "#0B0800",
           "pow_line_color": "rgba(255, 99, 132, 1)",
           "pow_fill_color": "rgba(255, 99, 132, 0.2)",
           "pos_line_color": "rgba(255, 161, 0, 1)",
@@ -200,7 +200,7 @@
         {
           "enabled": true,
           "tooltip_text": "Github",
-          "url": "https://github.com/CatcoinCore/Catcoin-v0.9.3.0",
+          "url": "https://github.com/CatcoinCore/catcoincore",
           "fontawesome_class": "fa-brands fa-github",
           "image_path": ""
         },
