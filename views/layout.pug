@@ -838,7 +838,7 @@ html(lang='en')
             crosshair: {
               line: {
                 color: '#{settings.shared_pages.page_header.network_charts.nethash_chart.crosshair_color}',
-                width: 1
+                width: 0.5
               },
               sync: {
                 enabled: #{settings.shared_pages.page_header.network_charts.sync_charts},
@@ -847,7 +847,7 @@ html(lang='en')
                 axis: 'x'
               },
               zoom: {
-                enabled: false
+                enabled: true
               }
             },
             annotation: populateBlockIndexAnnotations(timeData.hourData, !{JSON.stringify(settings.shared_pages.page_header.network_charts.nethash_chart.block_line)})
@@ -1003,7 +1003,7 @@ html(lang='en')
             crosshair: {
               line: {
                 color: '#{settings.shared_pages.page_header.network_charts.difficulty_chart.crosshair_color}',
-                width: 1
+                width: 0.5
               },
               sync: {
                 enabled: #{settings.shared_pages.page_header.network_charts.sync_charts},
@@ -1012,7 +1012,7 @@ html(lang='en')
                 axis: 'x'
               },
               zoom: {
-                enabled: false
+                enabled: true
               }
             },
             annotation: populateBlockIndexAnnotations(timeData.hourData, !{JSON.stringify(settings.shared_pages.page_header.network_charts.difficulty_chart.block_line)})
