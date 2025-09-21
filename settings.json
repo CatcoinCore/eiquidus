@@ -143,7 +143,7 @@
           },
           "bgcolor": "#0B0800",
           "line_color": "rgba(54, 162, 235, 1)",
-          "fill_color": "rgba(54, 162, 235, 0.2)",
+          "fill_color": "rgba(0, 0, 0, 0)",
           "crosshair_color": "#000000",
           "block_line": {
             "enabled": true,
@@ -173,7 +173,7 @@
           },
           "bgcolor": "#0B0800",
           "pow_line_color": "rgba(255, 99, 132, 1)",
-          "pow_fill_color": "rgba(255, 99, 132, 0.2)",
+          "pow_fill_color": "rgba(0, 0, 0, 0)",
           "pos_line_color": "rgba(255, 161, 0, 1)",
           "pos_fill_color": "rgba(255, 161, 0, 0.2)",
           "crosshair_color": "#000000",
