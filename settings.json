@@ -144,7 +144,7 @@
           "bgcolor": "#0B0800",
           "line_color": "rgba(54, 162, 235, 1)",
           "fill_color": "rgba(0, 0, 0, 0)",
-          "crosshair_color": "#000000",
+          "crosshair_color": "white",
           "block_line": {
             "enabled": true,
             "block_line_color": "rgba(0, 128, 0, 0.2)"
@@ -176,7 +176,7 @@
           "pow_fill_color": "rgba(0, 0, 0, 0)",
           "pos_line_color": "rgba(255, 161, 0, 1)",
           "pos_fill_color": "rgba(255, 161, 0, 0.2)",
-          "crosshair_color": "#000000",
+          "crosshair_color": "white",
           "block_line": {
             "enabled": true,
             "block_line_color": "rgba(0, 128, 0, 0.2)"
