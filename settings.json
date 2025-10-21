@@ -567,7 +567,7 @@
     "enable_captcha": true
   },
   "orphans_page": {
-    "enabled": true,
+    "enabled": false,
     "show_panels": false,
     "show_nethash_chart": false,
     "show_difficulty_chart": false,
